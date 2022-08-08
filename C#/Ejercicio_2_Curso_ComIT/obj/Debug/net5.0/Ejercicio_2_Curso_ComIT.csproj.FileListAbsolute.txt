@@ -1,0 +1,32 @@
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.exe
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.deps.json
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.runtimeconfig.json
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.pdb
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\refint\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.pdb
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.genruntimeconfig.cache
+C:\Users\mathi\source\repos\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\ref\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.exe
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.deps.json
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.runtimeconfig.json
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.runtimeconfig.dev.json
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\bin\Debug\net5.0\Ejercicio_2_Curso_ComIT.pdb
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.csproj.AssemblyReference.cache
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.AssemblyInfoInputs.cache
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.AssemblyInfo.cs
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\refint\Ejercicio_2_Curso_ComIT.dll
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.pdb
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\Ejercicio_2_Curso_ComIT.genruntimeconfig.cache
+C:\Users\mathi\Desktop\Codigo\Ejercicios y algoritmos\C#\Ejercicio_2_Curso_ComIT\obj\Debug\net5.0\ref\Ejercicio_2_Curso_ComIT.dll
